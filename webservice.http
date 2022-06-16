@@ -1,0 +1,7 @@
+// @name Airlabels post label
+POST http://localhost:8000/labels
+###
+
+// @name Airlabels post resource
+POST http://localhost:8000/resources
+###
